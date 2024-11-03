@@ -37,4 +37,4 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phuc5807&show_icons=true&locale=en&layout=compact" alt="phuc5807" /></p>
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=phuc5807&show_icons=true&locale=en&layout=compact" alt="phuc5807](https://github-readme-stats.vercel.app/api/top-langs?username=phuc5807&show_icons=true&locale=en&layout=compact&cache_seconds=1800)" /></p>
