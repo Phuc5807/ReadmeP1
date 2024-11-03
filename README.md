@@ -35,6 +35,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+
+
+<a href="https://u8views.com/github/Phuc5807"><img src="https://u8views.com/api/v1/github/profiles/161826653/views/day-week-month-total-count.svg"></a>
+
 ###
 
 <p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=phuc5807&show_icons=true&locale=en&layout=compact" alt="phuc5807](https://github-readme-stats.vercel.app/api/top-langs?username=phuc5807&show_icons=true&locale=en&layout=compact&cache_seconds=1800)" /></p>
